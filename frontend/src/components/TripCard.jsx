@@ -1,6 +1,6 @@
 import React from "react";
 import { useTheme } from "../Context/ThemeContext";  // Import the theme hook
-import image from "../utilis/ToKoyo.png";
+import Tokoyo from "../utilis/Tokoyo.png";
 import { FaUser } from "react-icons/fa";
 import { CiClock2 } from "react-icons/ci";
 import { LuNotebook } from "react-icons/lu";
@@ -22,7 +22,7 @@ const TripCard = ({ city, dateRange, duration, groupSize, activities }) => {
       {/* Flipped background layer */}
       <div
         className="absolute inset-0 bg-cover opacity-45 bg-center scale-x-[-1]"
-        style={{ backgroundImage: `url(${image})` }}
+        style={{ backgroundImage: `url(${Tokoyo})` }}
       ></div>
 
       {/* Foreground content */}
