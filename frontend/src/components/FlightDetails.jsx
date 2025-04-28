@@ -1,5 +1,5 @@
 import React from "react";
-import { useTheme } from "../context/ThemeContext"; // Import theme hook
+import { useTheme } from "../Context/ThemeContext"; // Import theme hook
 import PlaneImage from "../utilis/plane.png";
 
 const FlightDetails = ({ from, to, date, time }) => {

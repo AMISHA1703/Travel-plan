@@ -1,5 +1,5 @@
 import React from "react";
-import { useTheme } from "../context/ThemeContext";  // Import the theme hook
+import { useTheme } from "../Context/ThemeContext";  // Import the theme hook
 import image from "../utilis/ToKoyo.png";
 import { FaUser } from "react-icons/fa";
 import { CiClock2 } from "react-icons/ci";

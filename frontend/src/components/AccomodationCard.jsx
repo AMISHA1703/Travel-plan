@@ -1,7 +1,7 @@
 import React from "react";
 import { GiConfirmed } from "react-icons/gi";
 import { PiClockCounterClockwise } from "react-icons/pi";
-import { useTheme } from '../context/ThemeContext'; // assuming you have a theme context
+import { useTheme } from '../Context/ThemeContext'; // assuming you have a theme context
 
 const AccommodationCard = ({
   hotelName,

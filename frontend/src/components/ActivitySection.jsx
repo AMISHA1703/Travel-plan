@@ -1,5 +1,5 @@
 import React from 'react';
-import { useTheme } from '../context/ThemeContext';
+import { useTheme } from '../Context/ThemeContext';
 import ActivityCard from './ActivityCard';
 
 const ActivitySection = () => {

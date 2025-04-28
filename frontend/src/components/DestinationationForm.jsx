@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useTheme } from "../context/ThemeContext"; // Import the theme hook
+import { useTheme } from "../Context/ThemeContext"; // Import the theme hook
 import TravelOptionButton from "./TraveloptionButton";
 import { CiLocationOn, CiCalendarDate, CiBatteryFull } from "react-icons/ci";
 import { FaRegUser, FaWifi, FaSignal } from "react-icons/fa";

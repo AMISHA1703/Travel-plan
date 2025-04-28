@@ -1,5 +1,5 @@
 import React from "react";
-import { useTheme } from "../context/ThemeContext"; // Import the theme context
+import { useTheme } from "../Context/ThemeContext"; // Import the theme context
 import { FaRegUser } from "react-icons/fa";
 import { TbFriends } from "react-icons/tb";
 import { MdFamilyRestroom } from "react-icons/md";

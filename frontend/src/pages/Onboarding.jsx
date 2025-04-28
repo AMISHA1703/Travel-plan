@@ -1,5 +1,5 @@
 import React from "react";
-import { useTheme } from "../context/ThemeContext";  // Import theme context
+import { useTheme } from "../Context/ThemeContext";  // Import theme context
 import DestinationForm from "../components/DestinationationForm";
 
 const Onboarding = ({ onContinue }) => {

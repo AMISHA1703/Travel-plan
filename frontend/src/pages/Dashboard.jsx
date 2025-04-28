@@ -1,5 +1,5 @@
 import React from "react";
-import { useTheme } from "../context/ThemeContext";
+import { useTheme } from "../Context/ThemeContext";
 import TripCard from "../components/TripCard";
 import FlightDetails from "../components/FlightDetails";
 import AccommodationCard from "../components/AccomodationCard";
