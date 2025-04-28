@@ -2,7 +2,7 @@
 
 **Travel Planner** is a responsive web application to personalize and plan your travel journey easily. Built using **React.js**, **TailwindCSS**, and **Context API** for theme management.
 
-🖥️ [Live Demo](#) <!-- Replace # with your actual deployed URL -->
+🖥️ [Live Demo](https://travel-plan-6ws2.vercel.app/) 
 
 ---
 
