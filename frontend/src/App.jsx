@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Onboarding from "./pages/Onboarding";
 import Dashboard from "./pages/Dashboard";
-import { useTheme } from "./context/ThemeContext"; // Import useTheme
+import { useTheme } from "./Context/ThemeContext"; // Import useTheme
 
 const App = () => {
   const [userTrip, setUserTrip] = useState(null);
